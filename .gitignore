@@ -2,7 +2,9 @@ main.cpp
 mainwindow.h
 mainwindow.cpp
 mainwindow.qrc
+mainwindow.ui
 
+dexter.sln
 dexter.vcxproj
 dexter.vcxproj.filters
 
